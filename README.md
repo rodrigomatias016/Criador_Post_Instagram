@@ -70,4 +70,3 @@ Este projeto foi um ótimo aprendizado! Algumas ideias para melhorá-lo seriam:
 * Criar uma interface gráfica simples para facilitar o uso.
 
 ---
-*Este projeto foi desenvolvido por Rodrigo Matias como parte da minha jornada de transição de carreira para a programação Python.*
